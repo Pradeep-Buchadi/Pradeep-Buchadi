@@ -35,6 +35,6 @@ That question led me to build real things that solve real problems.
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pradeep%20Buchadi-blue)](https://www.linkedin.com/in/pradeepbuchadi-a58563249)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pradeep%20Buchadi-blue)](www.linkedin.com/in/pradeep-buchadi-a58563249)
 
 **Open to opportunities in UAE 🇦🇪 · Singapore 🇸🇬 · Europe 🇪🇺**
